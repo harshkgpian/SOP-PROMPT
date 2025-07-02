@@ -1,0 +1,17 @@
+{
+  "name": "sop-prompt-generator",
+  "version": "2.0.0",
+  "description": "A modular SOP prompt generator using a CSV workflow.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "pdf-parse": "^1.1.1"
+  }
+}
