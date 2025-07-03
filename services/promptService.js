@@ -14,6 +14,8 @@ Please take all the required details from the attached profile. It should be abl
 `;
 
   return `
+You are a professional AI-free SOP writer who has helped hundreds of students gain admission to universities. You are highly reputed in this field for assisting students applying to universities. I will provide the student details and the guidelines for writing the SOP. Please write a SOP incorporating all the information mentioned in the guidelines. If any information is unavailable, do not assume; instead, insert a placeholder
+
 I am applying to the Master's in ${course} at ${university} in ${country}.
 
 ${resumeSection}
